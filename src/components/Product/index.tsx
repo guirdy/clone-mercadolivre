@@ -1,6 +1,7 @@
 import React from 'react';
 
 import playStationImage from '../../assets/playstation.png';
+import SellerInfo from '../SellerInfo';
 
 import { 
   Container,
@@ -31,7 +32,7 @@ const Product: React.FC = () => {
 
         <Column>
           {/*<ProductAction />*/}
-          {/*<SellerInfo />*/}
+          <SellerInfo />
 
           <WarrantySection />
           <WarrantySection />
@@ -73,7 +74,7 @@ const Info = () => {
       <h2>Descrição</h2>
 
       <p>
-        <strong>Processador:</strong> octa-core AMD de arquitetura Zen 2 (7 nm), com clock de até 3,5 GHz;<br/>
+        <strong>Processador:</strong> octa-core AMD de arquitetura Zen 2 (7 nm), com clock de até 3.5 GHz;<br/>
         <strong>Chip gráfico:</strong> GPU customizada RDNA 2 com 36 unidades computacionais, clock de até 2,23 GHz e 10,28 Tflop/s;<br/>
         <strong>Memória RAM:</strong> 16 GB GDDR6;<br/>
         <strong>Largura de banda da RAM:</strong> 448 GB/s;<br/>
