@@ -15,7 +15,7 @@
 
 <h2 align=center> Resultado </h2>
 <p align=center>
-  <img width="500px" src="https://drive.google.com/uc?export=view&id=1UGplEmPkt_5ELiahDbu18x84LtRDX-Jz">
+  <img width="500px" src="https://github.com/gui-leandro/clone-mercadolivre/blob/master/.github/mercadolivre.gif">
 </p>
 
 # :fire: Tecnologias
