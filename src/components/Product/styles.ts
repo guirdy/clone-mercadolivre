@@ -90,7 +90,7 @@ export const Section = styled.div`
 
 export const Description = styled.div`
   border-top: 1px solid var(--color-border);
-  PADDING: 44PX 32PX;
+  padding: 44PX 32PX;
 
   > h2 {
     font-size: 24px;
