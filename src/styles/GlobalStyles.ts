@@ -29,6 +29,7 @@ export default createGlobalStyle`
     --color-header: #FFF159;
     --color-search-placeholder: #AAAAAA;
     --color-border: #ddd;
+    --color-footer: #999;
 
     --reputation-1: #FFE7E6;
     --reputation-2: #FFF4E7;
