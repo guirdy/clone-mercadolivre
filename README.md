@@ -4,7 +4,6 @@
   <a href="https://github.com/gui-leandro">
       <img src="https://img.shields.io/badge/author-guileandro-yellow?style=flat-square" alt="author">
   </a>
-  <img src="https://img.shields.io/github/languages/count/gui-leandro/clone-mercadolivre?color=yellow&style=flat-square">
 </p>
 
 ## 🔥 Sobre o projeto
